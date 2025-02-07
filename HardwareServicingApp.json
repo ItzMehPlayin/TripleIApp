@@ -90,7 +90,208 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "file": "Harddrive.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Harddrive.png\",\"extension\":\".png\"}",
+        "name": "Harddrive.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Headset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Headset.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Keyboard.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Keyboard.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Monitor.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Monitor.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Motherboard.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Motherboard.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Mouse.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Mouse.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Printer.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Printer.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Speaker.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Speaker.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "System unit (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "System unit (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "System unit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "System unit.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Webcam.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Webcam.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Headset2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Headset2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Keyboard2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Keyboard2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Monitor2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Monitor2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Motherboard2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Motherboard2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Mouse2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Mouse2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Printer2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Printer2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Speaker2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Speaker2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "System unit (1)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "System unit (1)2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "System unit2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "System unit2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Webcam2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Webcam2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Harddrive.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Harddrive",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Harddrive2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Harddrive2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": false,
+        "userAdded": false
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],
