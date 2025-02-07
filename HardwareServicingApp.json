@@ -90,7 +90,120 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "file": "Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Background2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Table.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Table.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Keyboard .png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Keyboard .png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "System unit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "System unit.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Monitor.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Monitor.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "BackgroundTopic.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "BackgroundTopic.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Computer parts.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Computer parts.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Computer setup.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Computer setup.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lan Cable.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lan Cable.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Computer parts2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Computer parts2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Computer setup2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Computer setup2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lan Cable2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lan Cable2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Parts of Motherboard.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Parts of Motherboard.png",
+        "smoothed": false,
+        "userAdded": false
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],
