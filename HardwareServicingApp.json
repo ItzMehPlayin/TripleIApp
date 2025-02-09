@@ -282,6 +282,30 @@
         "name": "Parts of Motherboard3.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Background3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Background4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Background5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Background5.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
