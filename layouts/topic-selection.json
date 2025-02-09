@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": true,
-    "zoomFactor": 0.7876290101673765,
+    "zoomFactor": 0.6244537826600001,
     "windowMask": true
   },
   "objectsGroups": [],
@@ -45,15 +45,32 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 264,
+      "height": 320,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Assembly_And_Disassembly",
+      "persistentUuid": "aad32e55-5412-499f-a621-767e013ce622",
+      "width": 266,
+      "x": 310,
+      "y": 384,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 346,
       "keepRatio": true,
       "layer": "",
       "name": "Computer_Parts",
-      "persistentUuid": "d8427aae-670b-4146-8335-caa6346f01ca",
-      "width": 264,
-      "x": 24,
-      "y": 224,
-      "zOrder": 2,
+      "persistentUuid": "ddf00e0f-804b-4e9d-81ba-dc3001bf4361",
+      "width": 288,
+      "x": 0,
+      "y": 32,
+      "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -62,15 +79,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 264,
+      "height": 345,
       "keepRatio": true,
       "layer": "",
       "name": "Computer_Setup",
-      "persistentUuid": "cc21d72a-d121-4674-9960-8a2e50c9b8af",
-      "width": 264,
-      "x": 344,
-      "y": 224,
-      "zOrder": 3,
+      "persistentUuid": "25be7b12-01e0-4536-9840-9d5245fc8550",
+      "width": 288,
+      "x": 512,
+      "y": 39,
+      "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -79,15 +96,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 256,
+      "height": 346,
       "keepRatio": true,
       "layer": "",
       "name": "LanCable",
-      "persistentUuid": "ade61caf-96c3-4eca-b04c-2887c2389f67",
-      "width": 256,
+      "persistentUuid": "eb412ee4-8b70-45f1-b4cb-b5a9b2356c5c",
+      "width": 288,
       "x": 960,
-      "y": 224,
-      "zOrder": 4,
+      "y": 32,
+      "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -96,15 +113,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 256,
+      "height": 320,
       "keepRatio": true,
       "layer": "",
       "name": "Parts_Of_MotherBoard",
-      "persistentUuid": "53974620-e9cb-4772-a294-14c5f99d4e00",
-      "width": 256,
-      "x": 640,
-      "y": 224,
-      "zOrder": 5,
+      "persistentUuid": "9930393c-4fdf-47ee-8380-05745d62a281",
+      "width": 266,
+      "x": 726,
+      "y": 384,
+      "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -191,7 +208,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Computer parts2.png",
+                  "image": "Computer parts4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -216,11 +233,11 @@
                       },
                       {
                         "x": 928,
-                        "y": 928
+                        "y": 1168
                       },
                       {
                         "x": 73,
-                        "y": 928
+                        "y": 1168
                       }
                     ]
                   ]
@@ -251,7 +268,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Computer setup2.png",
+                  "image": "Computer setup4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -276,11 +293,11 @@
                       },
                       {
                         "x": 928,
-                        "y": 928
+                        "y": 1176
                       },
                       {
                         "x": 73,
-                        "y": 928
+                        "y": 1176
                       }
                     ]
                   ]
@@ -311,7 +328,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Lan Cable2.png",
+                  "image": "Lan Cable4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -336,11 +353,11 @@
                       },
                       {
                         "x": 928,
-                        "y": 928
+                        "y": 1178
                       },
                       {
                         "x": 73,
-                        "y": 928
+                        "y": 1178
                       }
                     ]
                   ]
@@ -371,7 +388,78 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Parts of Motherboard.png",
+                  "image": "Parts of Motherboard3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 54,
+                        "y": 73
+                      },
+                      {
+                        "x": 947,
+                        "y": 73
+                      },
+                      {
+                        "x": 947,
+                        "y": 1125
+                      },
+                      {
+                        "x": 54,
+                        "y": 1125
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Assembly_And_Disassembly",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "AssemblyAndDisassembly.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -396,11 +484,11 @@
                       },
                       {
                         "x": 928,
-                        "y": 928
+                        "y": 1164
                       },
                       {
                         "x": 73,
-                        "y": 928
+                        "y": 1164
                       }
                     ]
                   ]
@@ -429,6 +517,12 @@
       },
       {
         "objectName": "Parts_Of_MotherBoard"
+      },
+      {
+        "objectName": "NewSprite"
+      },
+      {
+        "objectName": "Assembly_And_Disassembly"
       }
     ]
   },

@@ -202,6 +202,86 @@
         "name": "Parts of Motherboard.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Computer parts3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Computer parts3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Computer setup3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Computer setup3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lan Cable3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lan Cable3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Parts of Motherboard2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Parts of Motherboard2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "AssemblyAndDisassembly.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "AssemblyAndDisassembly.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../AssetsOutside/Topic Selection/Computer setup.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\AssetsOutside\\Topic Selection\\Computer setup.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Computer parts4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Computer parts4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Computer setup4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Computer setup4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Lan Cable4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Lan Cable4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Parts of Motherboard3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Parts of Motherboard3.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
