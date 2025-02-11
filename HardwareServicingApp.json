@@ -16,7 +16,7 @@
     "pixelsRounding": true,
     "projectUuid": "b77debd7-cb2e-43b9-b3ef-a0df2202cacd",
     "scaleMode": "nearest",
-    "sizeOnStartupMode": "adaptWidth",
+    "sizeOnStartupMode": "scaleOuter",
     "templateSlug": "",
     "version": "1.0.0",
     "name": "HardwareServicingApp",
@@ -64,7 +64,7 @@
       "gdevelopLogoStyle": "light",
       "logoAndProgressFadeInDuration": 0.2,
       "logoAndProgressLogoFadeInDelay": 0,
-      "minDuration": 1.5,
+      "minDuration": 2,
       "progressBarColor": 16777215,
       "progressBarHeight": 20,
       "progressBarMaxWidth": 200,
@@ -75,7 +75,7 @@
     },
     "watermark": {
       "placement": "bottom-left",
-      "showWatermark": true
+      "showWatermark": false
     },
     "authorIds": [],
     "authorUsernames": [],
@@ -284,26 +284,194 @@
         "userAdded": false
       },
       {
-        "file": "Background3.png",
+        "file": "BackgroundTopic2.jpg",
         "kind": "image",
         "metadata": "",
-        "name": "Background3.png",
+        "name": "BackgroundTopic2.jpg",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "Background4.png",
+        "file": "CPU.png",
         "kind": "image",
         "metadata": "",
-        "name": "Background4.png",
+        "name": "CPU.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "Background5.png",
+        "file": "HardDisk.png",
         "kind": "image",
         "metadata": "",
-        "name": "Background5.png",
+        "name": "HardDisk.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Headphones.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Headphones.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Keyboard3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Keyboard3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Monitor3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Monitor3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../AssetsOutside/Parts of Computer/drive-download-20250211T131142Z-001/Icons/Motherboard.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\AssetsOutside\\Parts of Computer\\drive-download-20250211T131142Z-001\\Icons\\Motherboard.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Mouse3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Mouse3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Power Supply.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Power Supply.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Printer3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Printer3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Speaker3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Speaker3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Webcam3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Webcam3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Directions.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Directions.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled54_20250208233159.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled54_20250208233159.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled54_20250208233302.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled54_20250208233302.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled54_20250208233348.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled54_20250208233348.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled54_20250208233442.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled54_20250208233442.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled54_20250208233547.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled54_20250208233547.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled54_20250208233641.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled54_20250208233641.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled54_20250208233743.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled54_20250208233743.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled54_20250208233809.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled54_20250208233809.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../AssetsOutside/Parts of Computer/drive-download-20250211T131142Z-001/Untitled54_20250208233916.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\AssetsOutside\\Parts of Computer\\drive-download-20250211T131142Z-001\\Untitled54_20250208233916.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Untitled54_20250208234002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Untitled54_20250208234002.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Power Supply2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Power Supply2.png",
         "smoothed": false,
         "userAdded": false
       }
@@ -355,6 +523,19 @@
     }
   ],
   "externalEvents": [],
-  "eventsFunctionsExtensions": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/regex"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/extendedvariables"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/arraytools"
+    }
+  ],
   "externalLayouts": []
 }
